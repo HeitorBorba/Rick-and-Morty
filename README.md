@@ -1,26 +1,26 @@
-###JOGO DO RICK AND MORTY
+### JOGO DO RICK AND MORTY
  
 
- ##Linquagens Utilizadas;
+ ## Linquagens Utilizadas;
  
  - Html.
  - Css.
  - Java Script.
 
- ##Ferramentas das Linguagens; 
+ ## Ferramentas das Linguagens; 
 
  - utilizamos em HTML div,buttom,input e img e h4;
  - Utilizamos em CSS display flex, justify-content etc;
  - Utilizamos let , fetch, this, return, if e else,function em JAVA.SCRIPT;
 
- ##Integrantes; 
+ ## Integrantes; 
 
 - Yara Nunes.
 - Alexandre Junior. 
 - Gabriel Santos.
 - Heitor Borba.
 
-##Curiosidade do jogo...
+## Curiosidade do jogo...
 
 - Irá aparecer a imagem de um personagem do desenho "rick and morty".
 
